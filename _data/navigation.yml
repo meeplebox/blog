@@ -1,0 +1,13 @@
+# Site navigation links
+
+- title: Play
+  url: /play/
+
+- title: Design
+  url: /design/
+ 
+- title: Developer blog
+  url: /blog/
+  
+- title: About
+  url: /about/
